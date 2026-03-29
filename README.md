@@ -4,11 +4,13 @@ I'am BuahPir a Student from Universitas Negeri Makassar
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 30 mins          ████████████████████████▒   96.81 %
-Other      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-CSV        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Total Time: 162 hrs 38 mins
+
+Python            59 hrs 19 mins        █████████░░░░░░░░░░░░░░░░   35.87 %
+Blade Template    28 hrs 31 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+PHP               20 hrs 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Rust              9 hrs 50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+HTML              7 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
